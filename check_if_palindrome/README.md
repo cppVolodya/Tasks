@@ -24,11 +24,11 @@
 
 ## Demo
 
-![image_1](https://github.com/cppVolodya/tasks/assets/103601559/d73d89fb-0fbf-45c3-b299-6e7d2088455d)
+![image1](https://github.com/cppVolodya/Tasks/assets/103601559/0353c6df-de9e-4038-b37a-ee2b8726c239)
 
-![image_2](https://github.com/cppVolodya/tasks/assets/103601559/182fb858-570f-4f0e-a8ef-4b38c645682d)
+![image2](https://github.com/cppVolodya/Tasks/assets/103601559/3cc3e049-46fc-4c08-a59d-8377173b35ae)
 
-![image_3](https://github.com/cppVolodya/tasks/assets/103601559/1463eb53-ece3-4dd4-a2a8-9f572670b57f)
+![image3](https://github.com/cppVolodya/Tasks/assets/103601559/582c15a1-9fd8-4bb7-9373-d3c26e4b2185)
 
 ## Run Locally
 
