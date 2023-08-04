@@ -1,5 +1,5 @@
 
-# Count Words In String
+# Pig Latin
 ## Roadmap
 
 - About
@@ -9,7 +9,7 @@
 
 ## About
 
-"Count Words In String" - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
+"Pig Latin" - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
 ## Tech Stack
 
@@ -23,21 +23,11 @@
 
 ## Demo
 
-- String:
+![image_1](https://github.com/cppVolodya/Tasks/assets/103601559/7362d8cc-5adc-4c6c-b3bb-10c68a779ffe)
 
-![image_1](https://github.com/cppVolodya/tasks/assets/103601559/bfade9a6-2830-4a6f-9253-f12784e9e433)
+![image_2](https://github.com/cppVolodya/Tasks/assets/103601559/3ebee10e-d6aa-4137-90b1-c16fb1e8ff9c)
 
-- Filename:
-
-![image_2](https://github.com/cppVolodya/tasks/assets/103601559/6c95c6ab-e139-431f-ae91-6d7e56ca14ce)
-
-![image_3](https://github.com/cppVolodya/tasks/assets/103601559/9e773525-ff9c-4d34-af66-8a5a46c17207)
-
-![image_4](https://github.com/cppVolodya/tasks/assets/103601559/e259c1d4-5b28-4bab-921d-cad69d7ca003)
-
-- random_text.txt:
-
-  Programming is a creative task: there is no right or wrong way to solve a problem, in the same way, that there is no right or wrong way to paint a picture. There are choices to be made, and one way may seem better than another, but that doesn’t mean the other is wrong! With the right skills and experience, a programmer can craft software to solve an unlimited number of problems – from telling you when your next train will arrive at playing your favourite music. The possibilities are constrained only by your imagination. That’s why I love programming.
+![image_3](https://github.com/cppVolodya/Tasks/assets/103601559/d289cb6d-4776-4678-acf0-f337fadb72f9)
 
 ## Run Locally
 
@@ -46,13 +36,13 @@
 1. Clone or download (rar or zip file) the project: 
   
   ```bash
-  git https://github.com/cppVolodya/Tasks.git
+  git clone https/://dsa.sa
   ```
 
 2. Go to the directory with the program:
   
   ```bash
-  count_words_in_string/program/windows/
+  pig_latin/program/windows/
   ```
 
 3. Run the executable(.exe) file
