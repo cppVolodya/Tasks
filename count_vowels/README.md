@@ -23,7 +23,7 @@
 
 ## Demo
 
-![image_1](https://github.com/cppVolodya/tasks/assets/103601559/576bc5bd-2393-4755-a54c-15f99e8e8283)
+![image_1](https://github.com/cppVolodya/Tasks/assets/103601559/22bb61d2-c2b3-414b-9a90-1878abd8485b)
 
 ## Run Locally
 
