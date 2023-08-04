@@ -25,15 +25,15 @@
 
 - String:
 
-![image_1](https://github.com/cppVolodya/tasks/assets/103601559/bfade9a6-2830-4a6f-9253-f12784e9e433)
+![image_1](https://github.com/cppVolodya/Tasks/assets/103601559/f40d48c6-86e1-4763-8586-426f861e79a8)
 
 - Filename:
 
-![image_2](https://github.com/cppVolodya/tasks/assets/103601559/6c95c6ab-e139-431f-ae91-6d7e56ca14ce)
+![image_4](https://github.com/cppVolodya/Tasks/assets/103601559/b10171a9-9496-4fb1-be13-48532b5da417)
 
-![image_3](https://github.com/cppVolodya/tasks/assets/103601559/9e773525-ff9c-4d34-af66-8a5a46c17207)
+![image_3](https://github.com/cppVolodya/Tasks/assets/103601559/2acc2b00-beb1-45fa-94e3-cae570f65e16)
 
-![image_4](https://github.com/cppVolodya/tasks/assets/103601559/e259c1d4-5b28-4bab-921d-cad69d7ca003)
+![image_2](https://github.com/cppVolodya/Tasks/assets/103601559/c1b99985-3d49-4175-87f8-273cdd563121)
 
 - random_text.txt:
 
